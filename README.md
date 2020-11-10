@@ -1,4 +1,4 @@
 # Hello
 October 2018/
-I'm Anna, a former graphic designer, biology student nowadays. Interested in web development, as working and research opportunities 
+I'm Anna, a former graphic designer, today - biologist and web developer. Interested in web-projects and science
 :)
